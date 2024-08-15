@@ -68,7 +68,7 @@ app.get('/', (req, res) => {
     res.sendFile(imagePath);
 });
 app.listen(port, () => {
-    console.log(`🔗 Listening to GlaceYT : http://localhost:${port}`);
+    console.log(`🔗 Listening to VasudevKrishna : http://localhost:${port}`);
 });
 
 
@@ -88,10 +88,10 @@ module.exports = client;
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by VasudevKrishna!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@VasudevKrishna                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
