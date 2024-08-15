@@ -1,21 +1,3 @@
-/*
-
-  ________.__                        _____.___.___________
- /  _____/|  | _____    ____  ____   \__  |   |\__    ___/
-/   \  ___|  | \__  \ _/ ___\/ __ \   /   |   |  |    |   
-\    \_\  \  |__/ __ \\  \__\  ___/   \____   |  |    |   
- \______  /____(____  /\___  >___  >  / ______|  |____|   
-        \/          \/     \/    \/   \/                  
-
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
-║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-
 
 */
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
@@ -42,7 +24,7 @@ module.exports = {
     const embed1 = new EmbedBuilder()
       .setTitle('Bot Information')
       .setDescription(
-        `Developed By: **GlaceYT**\n`+
+        `Developed By: **VasudevKrishna**\n`+
         `Node Version: **v20.12.2**\n` +
         `Server Name: **${interaction.guild.name}**\n` +
         `Total Members: **${interaction.guild.memberCount}**\n` +
